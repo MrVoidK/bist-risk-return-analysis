@@ -1,35 +1,35 @@
-# Course Requirements
+# Ders Gereksinimleri
 
-This term project should apply a basic data science workflow to a real or realistic dataset.
+Bu dönem projesinde gerçek veya gerçekçi bir veri seti üzerinde temel veri bilimi iş akışı uygulanmalıdır.
 
-## Required Workflow
+## Gerekli İş Akışı
 
-- Data loading
-- Data cleaning
-- Missing value handling
-- Outlier or distribution checks
-- Data type conversions where needed
-- Exploratory data analysis
-- Visualizations
-- Basic modeling
-- Interpretation of results
+- Veri yükleme
+- Veri temizleme
+- Eksik değerlerin ele alınması
+- Aykırı değer veya dağılım kontrolleri
+- Gerektiği yerlerde veri tipi dönüşümleri
+- Keşifsel veri analizi
+- Görselleştirmeler
+- Temel modelleme
+- Sonuçların yorumlanması
 
-## Analysis Requirements
+## Analiz Gereksinimleri
 
-- Use at least 4 different visualization types.
-- Define and answer at least 3 concrete research questions.
-- Include one simple regression, classification, or clustering model.
-- Avoid complicated hyperparameter tuning.
-- Keep the project scope narrow and understandable.
+- En az 4 farklı görselleştirme türü kullanılmalıdır.
+- En az 3 somut araştırma sorusu tanımlanmalı ve analizle yanıtlanmalıdır.
+- Basit bir regresyon, sınıflandırma veya kümeleme modeli yer almalıdır.
+- Karmaşık hiperparametre ayarı yapılmamalıdır.
+- Proje kapsamı dar, anlaşılır ve yönetilebilir tutulmalıdır.
 
-## Final Submission
+## Final Teslimi
 
-- One working Jupyter Notebook file
-- Short PDF report, 3-5 pages
-- Prompt log with 10-15 important prompts in chronological order
-- README with project information, running instructions, libraries, data source, and source or license note
-- GitHub repository link
+- Çalışan bir Jupyter Notebook dosyası
+- 3-5 sayfalık kısa PDF rapor
+- Kronolojik sırayla 10-15 önemli prompt içeren prompt günlüğü
+- Proje bilgileri, çalıştırma talimatları, kullanılan kütüphaneler, veri kaynağı ve kaynak/lisans notu içeren README
+- GitHub repository bağlantısı
 
-## Selected Theme
+## Seçilen Tema
 
-Finance & Economy: BIST stock data and TCMB exchange rate data.
+Finans & Ekonomi: BIST hisse verileri ve TCMB döviz kuru verileri.

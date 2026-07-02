@@ -1,13 +1,13 @@
-# Project Instructions
+# Proje Talimatları
 
-This is a student-friendly data science course project.
+Bu çalışma, öğrenci seviyesine uygun bir veri bilimi dersi dönem projesidir.
 
-The project must be developed step by step. Each step should stay focused on the current task and should not skip ahead to later analysis, modeling, or reporting work.
+Proje adım adım geliştirilmelidir. Her aşamada yalnızca o adıma odaklanılmalı; veri analizi, modelleme veya raporlama gibi ileriki adımlara erken geçilmemelidir.
 
-The selected theme is Finance & Economy. The analysis will use selected BIST stock data and TCMB USD/TRY exchange rate data.
+Seçilen tema Finans & Ekonomi alanıdır. Analizde seçilen BIST hisselerine ait veriler ve TCMB USD/TRY döviz kuru verileri kullanılacaktır.
 
-Keep the project simple, understandable, and within the course scope. Do not use deep learning, complex trading strategies, or complicated financial models.
+Proje sade, anlaşılır ve ders kapsamına uygun tutulmalıdır. Derin öğrenme, karmaşık alım-satım stratejileri veya ileri düzey finansal modeller kullanılmamalıdır.
 
-The final project must include a working Jupyter Notebook, a README file, a prompt log, and a short report.
+Final tesliminde çalışan bir Jupyter Notebook dosyası, README dosyası, prompt günlüğü ve kısa rapor yer almalıdır.
 
-This project is for educational purposes only. It is not investment advice.
+Bu proje yalnızca eğitim amacıyla hazırlanacaktır. Yatırım tavsiyesi değildir.

@@ -1,42 +1,42 @@
-# BIST Hisseleri ve TCMB Doviz Kuru Verileriyle Risk-Getiri Analizi
+# BIST Hisseleri ve TCMB Döviz Kuru Verileriyle Risk-Getiri Analizi
 
-## Selected Theme
+## Seçilen Tema
 
-Finance & Economy: BIST stock data and TCMB exchange rate data.
+Finans & Ekonomi: BIST hisse verileri ve TCMB döviz kuru verileri.
 
-## Project Purpose
+## Projenin Amacı
 
-This project will analyze selected BIST stocks together with TCMB USD/TRY exchange rate data. The main goal is to study daily returns, risk, volatility, and the relationship between stock movements and exchange rate changes.
+Bu projede seçilen BIST hisseleri ile TCMB USD/TRY döviz kuru verileri birlikte incelenecektir. Temel amaç; günlük getirileri, risk/volatilite düzeylerini ve hisse hareketleri ile döviz kuru değişimleri arasındaki ilişkiyi veri bilimi iş akışıyla analiz etmektir.
 
-This is a data science course project and will be developed step by step.
+Bu çalışma bir veri bilimi dersi dönem projesidir ve adım adım geliştirilecektir.
 
-## Planned Data Sources
+## Planlanan Veri Kaynakları
 
-- Selected BIST stock prices, planned through Yahoo Finance / yfinance
-- TCMB USD/TRY exchange rate data
+- Seçilen BIST hisselerine ait fiyat verileri, Yahoo Finance / yfinance üzerinden alınması planlanmaktadır.
+- TCMB USD/TRY döviz kuru verileri
 
-## Planned Outputs
+## Planlanan Çıktılar
 
-- One working Jupyter Notebook
-- Short PDF report
-- Prompt log
-- README file
-- GitHub repository link
+- Çalışan bir Jupyter Notebook dosyası
+- Kısa PDF rapor
+- Prompt günlüğü
+- README dosyası
+- GitHub repository bağlantısı
 
-## Development Roadmap
+## Geliştirme Yol Haritası
 
-1. Initial project structure
-2. Notebook outline
-3. Data loading workflow
-4. Data cleaning and merging
-5. Daily return calculation
-6. EDA and visualizations
-7. Research questions
-8. Simple modeling
-9. README and prompt log refinement
-10. Report draft
-11. Final audit
+1. Başlangıç proje yapısı
+2. Notebook taslağı
+3. Veri yükleme iş akışı
+4. Veri temizleme ve birleştirme
+5. Günlük getiri hesaplama
+6. Keşifsel veri analizi ve görselleştirmeler
+7. Araştırma soruları
+8. Basit modelleme
+9. README ve prompt günlüğü düzenlemesi
+10. Rapor taslağı
+11. Son kontrol
 
-## Note
+## Not
 
-This project is for educational purposes only. It is not investment advice.
+Bu proje yalnızca eğitim amacıyla hazırlanacaktır. Yatırım tavsiyesi değildir.

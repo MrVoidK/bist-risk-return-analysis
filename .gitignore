@@ -1,23 +1,23 @@
-# Python cache files
+# Python önbellek dosyaları
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter notebook checkpoints
+# Jupyter notebook kontrol noktaları
 .ipynb_checkpoints/
 
-# Virtual environments
+# Sanal ortamlar
 .venv/
 venv/
 env/
 ENV/
 
-# System files
+# Sistem dosyaları
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Temporary files
+# Geçici dosyalar
 *.tmp
 *.temp
 *.log
