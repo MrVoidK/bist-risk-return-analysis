@@ -2,8 +2,6 @@
 
 Bu dosya, proje geliştirme sürecinde kullanılan ana adım promptlarını kaydeder.
 
-Bazı promptlar okunabilirlik için kısaltılmıştır, ancak gerçek istekleri ve geliştirme sırasını yansıtır.
-Küçük yazım, biçim ve dil düzeltmeleri bu günlüğe eklenmez.
 
 | No | Aşama | Kullanılan Prompt | Amaç |
 |---|---|---|---|
